@@ -1,3 +1,8 @@
+Nishant@Unknow_26:36:f1:e3:59:6b ~ % brew install phoneinfoga
+
+
+
+
 To install PhoneInfoga, you'll need to download the binary or build the software from its source code.
 
 !!! info
@@ -8,6 +13,7 @@ To install PhoneInfoga, you'll need to download the binary or build the software
 Follow the instructions :
 
 - Go to [release page on GitHub](https://github.com/sundowndev/phoneinfoga/releases)
+  
 - Choose your OS and architecture
 - Download the archive, extract the binary then run it in a terminal
 
@@ -118,4 +124,11 @@ All the output is sent to stdout, so it can be inspected by running:
 
 ```shell
 docker logs -f <container-id|container-name>
-```
+`
+
+``
+
+Nishant@Unknow_26:36:f1:e3:59:6b ~ % brew install phoneinfoga
+
+
+
